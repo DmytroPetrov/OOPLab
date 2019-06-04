@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+  <void property="address">
+   <string>1</string>
+  </void>
+  <void property="birthDate">
+   <object class="java.util.Date">
+    <long>-62135776800000</long>
+   </object>
+  </void>
+  <void property="lastName">
+   <string>1</string>
+  </void>
+  <void property="name">
+   <string>1</string>
+  </void>
+  <void property="phoneNumber">
+   <object class="java.util.Vector">
+    <void method="add">
+     <string>1111111111</string>
+    </void>
+   </object>
+  </void>
+  <void property="subname">
+   <string>1</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+    <void property="address">
+     <string>0</string>
+    </void>
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <long>-62170164000000</long>
+     </object>
+    </void>
+    <void property="lastName">
+     <string>Abc</string>
+    </void>
+    <void property="name">
+     <string>Ada</string>
+    </void>
+    <void property="phoneNumber">
+     <object class="java.util.Vector">
+      <void method="add">
+       <string>000000000</string>
+      </void>
+     </object>
+    </void>
+    <void property="subname">
+     <string>Aba</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+    <void property="address">
+     <string>1</string>
+    </void>
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <long>-62135776800000</long>
+     </object>
+    </void>
+    <void property="lastName">
+     <string>Abd</string>
+    </void>
+    <void property="name">
+     <string>Ada</string>
+    </void>
+    <void property="phoneNumber">
+     <object class="java.util.Vector">
+      <void method="add">
+       <string>11111111111</string>
+      </void>
+     </object>
+    </void>
+    <void property="subname">
+     <string>Aba</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+    <void property="address">
+     <string>2</string>
+    </void>
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <long>-62101476000000</long>
+     </object>
+    </void>
+    <void property="lastName">
+     <string>Abc</string>
+    </void>
+    <void property="name">
+     <string>Bob</string>
+    </void>
+    <void property="phoneNumber">
+     <object class="java.util.Vector">
+      <void method="add">
+       <string>22222222222</string>
+      </void>
+     </object>
+    </void>
+    <void property="subname">
+     <string>Botovich</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+    <void property="address">
+     <string>3</string>
+    </void>
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <long>-62067434400000</long>
+     </object>
+    </void>
+    <void property="lastName">
+     <string>Abd</string>
+    </void>
+    <void property="name">
+     <string>Bot</string>
+    </void>
+    <void property="phoneNumber">
+     <object class="java.util.Vector">
+      <void method="add">
+       <string>333333333</string>
+      </void>
+     </object>
+    </void>
+    <void property="subname">
+     <string>Botocih</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+    <void property="address">
+     <string>4</string>
+    </void>
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <long>-62033047200000</long>
+     </object>
+    </void>
+    <void property="lastName">
+     <string>Anonimenko</string>
+    </void>
+    <void property="name">
+     <string>Anonim</string>
+    </void>
+    <void property="phoneNumber">
+     <object class="java.util.Vector">
+      <void method="add">
+       <string>44444444</string>
+      </void>
+     </object>
+    </void>
+    <void property="subname">
+     <string>Anonimovich</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

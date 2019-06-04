@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="ua.lpnuai.oop.petrov04.LinkedList">
+  <void property="head">
+   <object class="ua.lpnuai.oop.petrov04.Node">
+    <void property="data">
+     <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+      <void property="address">
+       <string>1</string>
+      </void>
+      <void property="birthDate">
+       <object class="java.util.Date">
+        <long>-62135776800000</long>
+       </object>
+      </void>
+      <void property="lastName">
+       <string>1</string>
+      </void>
+      <void property="name">
+       <string>1</string>
+      </void>
+      <void property="phoneNumber">
+       <object class="java.util.Vector">
+        <void method="add">
+         <string>1111111111</string>
+        </void>
+       </object>
+      </void>
+      <void property="subname">
+       <string>1</string>
+      </void>
+     </object>
+    </void>
+    <void property="next">
+     <object class="ua.lpnuai.oop.petrov04.Node">
+      <void property="data">
+       <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+        <void property="address">
+         <string>Study Courpus 1</string>
+        </void>
+        <void property="birthDate">
+         <object class="java.util.Date">
+          <long>1556226000000</long>
+         </object>
+        </void>
+        <void property="lastName">
+         <string>Gone</string>
+        </void>
+        <void property="name">
+         <string>Orest</string>
+        </void>
+        <void property="phoneNumber">
+         <object class="java.util.Vector">
+          <void method="add">
+           <string>0698754213</string>
+          </void>
+          <void method="add">
+           <string>0951326874</string>
+          </void>
+         </object>
+        </void>
+        <void property="subname">
+         <string>Ham</string>
+        </void>
+       </object>
+      </void>
+      <void property="next">
+       <object class="ua.lpnuai.oop.petrov04.Node" id="Node0">
+        <void property="data">
+         <object class="ua.lpnuai.oop.petrov03.PersonInfo">
+          <void property="address">
+           <string>Here is 217 au</string>
+          </void>
+          <void property="birthDate">
+           <object class="java.util.Date">
+            <long>1556226000000</long>
+           </object>
+          </void>
+          <void property="lastName">
+           <string>Code</string>
+          </void>
+          <void property="name">
+           <string>Pavlo</string>
+          </void>
+          <void property="phoneNumber">
+           <object class="java.util.Vector">
+            <void method="add">
+             <string>7896541230</string>
+            </void>
+            <void method="add">
+             <string>3465129870</string>
+            </void>
+            <void method="add">
+             <string>0555987462</string>
+            </void>
+           </object>
+          </void>
+          <void property="subname">
+           <string>Wrinting</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="size">
+   <int>3</int>
+  </void>
+  <void property="tail">
+   <object idref="Node0"/>
+  </void>
+ </object>
+</java>
